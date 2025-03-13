@@ -9,20 +9,20 @@ The dataset used contains multiple numerical and categorical variables represent
 ## Features Analyzed
 ### **Categorical Variables**
 - Gender
-- SSC Board (`ssc_b`)
-- HSC Board (`hsc_b`)
-- HSC Specialization (`hsc_s`)
-- Degree Type (`degree_t`)
-- Work Experience (`workex`)
-- Specialization (`specialisation`)
-- Placement Status (`status`)
+- SSC Board (`SSC_B`)
+- HSC Board (`HSC_B`)
+- HSC Specialization (`HSC_S`)
+- Degree Type (`DEGREE_T`)
+- Work Experience (`WORKEX`)
+- Specialization (`SPECIALISATION`)
+- Placement Status (`STATUS`)
 
 ### **Numerical Variables**
-- Secondary Education Percentage (`ssc_p`)
-- Higher Secondary Percentage (`hsc_p`)
-- Degree Percentage (`degree_p`)
-- Employability Test Percentage (`etest_p`)
-- MBA Percentage (`mba_p`)
+- Secondary Education Percentage (`SSC_P`)
+- Higher Secondary Percentage (`HSC_P`)
+- Degree Percentage (`DEGREE_P`)
+- Employability Test Percentage (`ETEST_P`)
+- MBA Percentage (`MBA_P`)
 - Salary (if placed)
 
 ## Exploratory Data Analysis (EDA)
